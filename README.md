@@ -6,4 +6,4 @@ Emre Akarsu
 Keanu Pastuschka
 Cengiz Ömür
 
-Die Final Datei bindet sich im Ordner Abgabe
+Die finale Datei befindet sich im Ordner "Abgabe"
